@@ -1,6 +1,6 @@
 # Spotify Playlist Viewer App
 
-This project is a simple web app built using Flask and the Spotipy library to authenticate users with Spotify, display their playlists, and allow them to log out. The app was created by following the step-by-step tutorial by [Imdad Codes on YouTube](https://www.youtube.com/watch?v=2if5xSaZJlg&t=2147s).
+This project is a simple web app built using Flask and the Spotipy library to authenticate users with Spotify, display their playlists, and allow them to log out. The app was created by following the step-by-step tutorial by [Imdad Codes on YouTube](https://www.youtube.com/watch?v=2if5xSaZJlg&t=2147s). I wanted to use this tutorial to get a basic understanding of Spotify API in order to build future data analytic projects. 
 
 # Features
 
@@ -64,5 +64,5 @@ The app provides the following routes:
 
 # Acknowledgments
 
-This project was created by following the tutorial by Imdad Codes (https://youtu.be/2if5xSaZJlg?si=MgXFve5t973aSoqY).
+This project was created by following the tutorial by [Imdad Codes](https://youtu.be/2if5xSaZJlg?si=MgXFve5t973aSoqY).
 
