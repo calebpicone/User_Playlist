@@ -64,5 +64,5 @@ The app provides the following routes:
 
 # Acknowledgments
 
-This project was created by following the tutorial by [Imdad Codes(https://youtu.be/2if5xSaZJlg?si=MgXFve5t973aSoqY)].
+This project was created by following the tutorial by Imdad Codes (https://youtu.be/2if5xSaZJlg?si=MgXFve5t973aSoqY).
 
